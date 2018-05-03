@@ -34,6 +34,8 @@ of a quantum virtual machine.
 
 Unsupervised Machine Learning on a Hybrid Quantum Computer -- [arXiv](https://arxiv.org/abs/1712.05771)
 
+A Hybrid Classical/Quantum Approach for Large-Scale Studies of Quantum Systems with Density Matrix Embedding Theory -- [arXiv](https://arxiv.org/abs/1610.06910)
+
 Nuclear Structure simulation on 19Q using VQE - [arXiv](https://arxiv.org/pdf/1801.03897.pdf)
 
 Using ML to compress a quantum circuit for the SWAP test on 19Q - [arXiv](https://arxiv.org/abs/1803.04114)
