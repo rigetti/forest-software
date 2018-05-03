@@ -36,6 +36,6 @@ Using ML to compress a quantum circuit for the SWAP test on 19Q - [arXiv](https:
 
 Training Boltzmann Machines using the QVM - [arXiv](https://arxiv.org/abs/1712.05304)
 
-
+## General open Source quantum software
 
 For a list of open source quantum software projects in general check out this [great list](https://github.com/markf94/os_quantum_software).
