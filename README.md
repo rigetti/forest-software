@@ -1,5 +1,7 @@
 # Projects Developed using Forest.
 
+![alt text](https://github.com/rigetticomputing/forest-software/blob/master/forest.png "Forest")
+
 This document is a list of projects that have been developed using the [Forest](https://www.rigetti.com/index.php/forest) 
 quantum programming enviornment.
 
