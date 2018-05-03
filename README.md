@@ -3,6 +3,8 @@
 This document is a list of projects that have been developed using the [Forest](https://www.rigetti.com/index.php/forest) 
 quantum programming enviornment.
 
+_Please read the [contribution guidelines](https://github.com/rigetticomputing/forest-software/blob/master/CONTRIBUTING.md) before contributing._
+
 ## Development Tools
 
 [pyQuil](http://github.com/rigetticomputing/pyquil) - [Python] The core development library for working with Forest 
@@ -33,3 +35,7 @@ Nuclear Structure simulation on 19Q using VQE - [arXiv](https://arxiv.org/pdf/18
 Using ML to compress a quantum circuit for the SWAP test on 19Q - [arXiv](https://arxiv.org/abs/1803.04114)
 
 Training Boltzmann Machines using the QVM - [arXiv](https://arxiv.org/abs/1712.05304)
+
+
+
+For a list of open source quantum software projects in general check out this [great list](https://github.com/markf94/os_quantum_software).
