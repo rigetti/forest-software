@@ -19,6 +19,8 @@ and Quil on QVMs and QPUs.
 [forestopenfermion](https://github.com/rigetticomputing/forestopenfermion) - [Python] A library for interfacing 
 Forest with [OpenFermion](http://openfermion.org/), a Python library for quantum simulations on quantum computers.
 
+[XaCC-rigetti](https://github.com/ORNL-QCI/xacc-rigetti) - [Python] A library for interfacing Forest as a backend in the [XaCC](https://github.com/ORNL-QCI/xacc) quantum programming framework.
+
 ## Simulators
 
 [reference-qvm](https://github.com/rigetticomputing/reference-qvm) - [Python] A lightweight implementation 
