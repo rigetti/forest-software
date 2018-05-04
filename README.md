@@ -34,15 +34,15 @@ of a quantum virtual machine.
 
 ## Research Papers
 
-Unsupervised Machine Learning on a Hybrid Quantum Computer -- [arXiv](https://arxiv.org/abs/1712.05771)
+Cincio, Lukasz et al. (2018) _Learning the quantum algorithm for state overlap_ - [arXiv](https://arxiv.org/abs/1803.04114)
 
-A Hybrid Classical/Quantum Approach for Large-Scale Studies of Quantum Systems with Density Matrix Embedding Theory -- [arXiv](https://arxiv.org/abs/1610.06910)
+Dumitrescu, E. F. et al. (2018) _Cloud Quantum Computing of an Atomic Nucleus_ - [arXiv](https://arxiv.org/abs/1801.03897)
 
-Nuclear Structure simulation on 19Q using VQE - [arXiv](https://arxiv.org/abs/1801.03897)
+Otterbach, J. S. et al. (2017) _Unsupervised Machine Learning on a Hybrid Quantum Computer_ - [arXiv](https://arxiv.org/abs/1712.05771)
 
-Using ML to compress a quantum circuit for the SWAP test on 19Q - [arXiv](https://arxiv.org/abs/1803.04114)
+Verdon, Guillame et al. (2017) _A quantum algorithm to train neural networks using low depth circuits_ - [arXiv](https://arxiv.org/abs/1712.05304)
 
-Training Boltzmann Machines using the QVM - [arXiv](https://arxiv.org/abs/1712.05304)
+Rubin, Nicholas C. (2016) _A Hybrid Classical/Quantum Approach for Large-Scale Studies of Quantum Systems with Density Matrix Embedding Theory_ - [arXiv](https://arxiv.org/abs/1610.06910)
 
 ## Tutorials
 
