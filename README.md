@@ -48,6 +48,10 @@ Rubin, Nicholas C. (2016) _A Hybrid Classical/Quantum Approach for Large-Scale S
 
 Introductory Quantum algorithms blog - Part [[1]](http://dkopczyk.quantee.co.uk/high-level-quantum-computing/)[[2]](http://dkopczyk.quantee.co.uk/deutschs-algorithm/)[[3]](http://dkopczyk.quantee.co.uk/grover-search/)
 
+## Quantum Games
+
+[A Link to Quantum](https://github.com/msohaibalam/Link_to_Quantum_game) - [Python] Collection of mini video-games that run on a quantum computer.
+
 ## General open Source quantum software
 
 For a list of open source quantum software projects in general check out this [great list](https://github.com/markf94/os_quantum_software).
