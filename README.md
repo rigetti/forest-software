@@ -1,4 +1,4 @@
-# Projects Developed using Forest.
+# Projects Developed using Forest
 
 ![alt text](https://github.com/rigetticomputing/forest-software/blob/master/forest.png "Forest")
 
@@ -12,7 +12,9 @@ _Please read the [contribution guidelines](https://github.com/rigetticomputing/f
 [pyQuil](http://github.com/rigetticomputing/pyquil) - [Python] The core development library for working with Forest 
 and Quil on QVMs and QPUs.
 
-[jsquil](https://github.com/mapmeld/jsquil) - [JavaScript] A Javascript wrapper for the Forest API.
+[jsquil](https://github.com/mapmeld/jsquil) - [JavaScript] A JavaScript wrapper for the Forest API.
+
+[Hasquil](https://github.com/WhatTheFunctional/Hasquil) - [Haskell] A Haskell library for representing Quil programs. ([blog post](https://whatthefunctional.wordpress.com/2018/06/03/high-level-quantum-assembly-using-haskell/))
 
 ## Integrations
 
@@ -26,7 +28,7 @@ Forest with [OpenFermion](http://openfermion.org/), a Python library for quantum
 [reference-qvm](https://github.com/rigetticomputing/reference-qvm) - [Python] A lightweight implementation 
 of a quantum virtual machine.
 
-[oqaml](https://github.com/rigetticomputing/oqaml) - [OCaml] Another lightweight quantum virutal machine implementation.
+[oqaml](https://github.com/rigetticomputing/oqaml) - [OCaml] Another lightweight quantum virtual machine implementation.
 
 ## Algorithm Libraries
 
@@ -46,12 +48,12 @@ Rubin, Nicholas C. (2016) _A Hybrid Classical/Quantum Approach for Large-Scale S
 
 ## Tutorials
 
-Introductory Quantum algorithms blog - Part [[1]](http://dkopczyk.quantee.co.uk/high-level-quantum-computing/)[[2]](http://dkopczyk.quantee.co.uk/deutschs-algorithm/)[[3]](http://dkopczyk.quantee.co.uk/grover-search/)
+Introductory quantum algorithms blog - Part [[1]](http://dkopczyk.quantee.co.uk/high-level-quantum-computing/)[[2]](http://dkopczyk.quantee.co.uk/deutschs-algorithm/)[[3]](http://dkopczyk.quantee.co.uk/grover-search/)
 
 ## Quantum Games
 
 [A Link to Quantum](https://github.com/msohaibalam/Link_to_Quantum_game) - [Python] Collection of mini video-games that run on a quantum computer.
 
-## General open Source quantum software
+## General Open Source Quantum Software
 
 For a list of open source quantum software projects in general check out this [great list](https://github.com/markf94/os_quantum_software).
