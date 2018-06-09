@@ -36,6 +36,8 @@ of a quantum virtual machine.
 
 ## Research Papers
 
+Babej, Tomas et al. (2018) _A quantum alternating operator ansatz with hard and soft constraints for lattice protein folding_ - [link](https://www.proteinqure.com/files/proteinqure_qaoa_protein_folding.pdf)
+
 Cincio, Lukasz et al. (2018) _Learning the quantum algorithm for state overlap_ - [arXiv](https://arxiv.org/abs/1803.04114)
 
 Dumitrescu, E. F. et al. (2018) _Cloud Quantum Computing of an Atomic Nucleus_ - [arXiv](https://arxiv.org/abs/1801.03897)
