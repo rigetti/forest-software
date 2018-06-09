@@ -36,6 +36,11 @@ of a quantum virtual machine.
 
 ## Research Papers
 
+Ryabinkin, Ilya et al. (2018) _Constrained variational quantum eigensolver: Quantum computer search engine in
+the Fock space_ - [arXiv](https://arxiv.org/pdf/1806.00461.pdf)
+
+Du, Yuxuan et al. (2018) _Bayesian Quantum Circuit_ - [arXiv](https://arxiv.org/abs/1805.11089)
+
 Babej, Tomas et al. (2018) _A quantum alternating operator ansatz with hard and soft constraints for lattice protein folding_ - [link](https://www.proteinqure.com/files/proteinqure_qaoa_protein_folding.pdf)
 
 Cincio, Lukasz et al. (2018) _Learning the quantum algorithm for state overlap_ - [arXiv](https://arxiv.org/abs/1803.04114)
