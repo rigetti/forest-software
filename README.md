@@ -63,4 +63,6 @@ Introductory quantum algorithms blog - Part [[1]](http://dkopczyk.quantee.co.uk/
 
 ## General Open Source Quantum Software
 
+[QCompress](https://github.com/hsim13372/QCompress) - [Python] Implementation and demonstration of the quantum autoencoder using Forest and OpenFermion.
+
 For a list of open source quantum software projects in general check out this [great list](https://github.com/markf94/os_quantum_software).
