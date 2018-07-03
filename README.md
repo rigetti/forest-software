@@ -36,6 +36,16 @@ of a quantum virtual machine.
 
 ## Research Papers
 
+Khatri, Sumeet et al. (2018) _Quantum Assisted Quantum Compiling_ - [arXiv](https://arxiv.org/abs/1807.00800)
+
+Verdon, Guillaume et al. (2018) _Universal Training Algorithm for Quantum Deep Learning_ - [arXiv](https://arxiv.org/pdf/1806.09729.pdf)
+
+Zhao et al. (2018) _Bayesian Deep Learning on a Quantum Computer_ - [arXiv](https://arxiv.org/pdf/1806.11463.pdf)
+
+Lamm & Lawrence (2018) _Simulation of Nonequilibrium Dynamics on a Quantum Computer_  - [arXiv](https://arxiv.org/pdf/1806.06649.pdf)
+
+Otten & Gray (2018) _Recovering noise-free quantum observables_ - [arXiv](https://arxiv.org/abs/1806.07860)
+
 Ryabinkin, Ilya et al. (2018) _Constrained variational quantum eigensolver: Quantum computer search engine in
 the Fock space_ - [arXiv](https://arxiv.org/pdf/1806.00461.pdf)
 
