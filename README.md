@@ -16,6 +16,8 @@ and Quil on QVMs and QPUs.
 
 [Hasquil](https://github.com/WhatTheFunctional/Hasquil) - [Haskell] A Haskell library for representing Quil programs. ([blog post](https://whatthefunctional.wordpress.com/2018/06/03/high-level-quantum-assembly-using-haskell/))
 
+[jquil](https://github.com/QCHackers/jquil) - [Java] A Java library for quantum programming using Quil..
+
 ## Integrations
 
 [forestopenfermion](https://github.com/rigetticomputing/forestopenfermion) - [Python] A library for interfacing 
