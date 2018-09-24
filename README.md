@@ -38,6 +38,8 @@ of a quantum virtual machine.
 
 ## Research Papers
 
+Du, Yuxuan et al. (2018) _Implementable Quantum Classifier for Nonlinear Data_ - [arXiv](https://arxiv.org/abs/1809.06056)
+
 Khatri, Sumeet et al. (2018) _Quantum Assisted Quantum Compiling_ - [arXiv](https://arxiv.org/abs/1807.00800)
 
 Verdon, Guillaume et al. (2018) _Universal Training Algorithm for Quantum Deep Learning_ - [arXiv](https://arxiv.org/pdf/1806.09729.pdf)
