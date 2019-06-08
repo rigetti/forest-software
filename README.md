@@ -23,6 +23,8 @@ and Quil on QVMs and QPUs.
 [forestopenfermion](https://github.com/rigetticomputing/forestopenfermion) - [Python] A library for interfacing 
 Forest with [OpenFermion](http://openfermion.org/), a Python library for quantum simulations on quantum computers.
 
+[PennyLane-Forest](https://github.com/rigetti/pennylane-forest) - [Python] A plugin for interfacing Forest with [PennyLane](http://pennylane.ai), a Python library for quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
+
 [XaCC-rigetti](https://github.com/ORNL-QCI/xacc-rigetti) - [Python] A library for interfacing Forest as a backend in the [XaCC](https://github.com/ORNL-QCI/xacc) quantum programming framework.
 
 [qasm2pyQuil](https://quantum-circuit.com/qasm2pyquil) - [Javascript] A web library for converting OpenQASM code to pyQuil.
